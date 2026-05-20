@@ -1,42 +1,49 @@
 {
-  "businessName": "Winning Woman Concepts",
-  "industry": "Manufacturing",
-  "tone": "professional and empowering",
-  "tagline": "Excellence in Manufacturing, Powered by Innovation",
+  "businessName": "Yeko Empire Downstream Logistics Co",
+  "industry": "Oil & Gas Distribution",
+  "tone": "professional",
+  "tagline": "Powering Nigeria's Energy Future with Reliable Petroleum Distribution Solutions",
   "sections": [
     {
       "id": "hero",
       "name": "Hero",
-      "copy": "Winning Woman Concepts - Your Trusted Manufacturing Partner in Abuja. We deliver quality manufacturing solutions that drive business growth and operational excellence across Nigeria.",
-      "imagePrompt": "Modern Nigerian manufacturing facility exterior with sleek industrial architecture, solar panels on roof, well-maintained grounds with indigenous plants, bright daylight, professional and empowering atmosphere, workers in safety gear visible through glass windows, located in Abuja, photorealistic, high quality",
+      "copy": "Yeko Empire Downstream Logistics Co\n\nYour Trusted Partner in Petroleum Distribution Across Nigeria\n\nWith strategic operations in Abuja and a commitment to excellence, we deliver reliable downstream logistics solutions that keep Nigeria moving. From fuel distribution to energy trading, we power businesses and communities with efficiency and integrity.",
+      "imagePrompt": "Professional aerial view of modern petroleum distribution terminal in Nigeria, with fuel tanker trucks lined up at loading bays, storage tanks gleaming under bright African sunlight, Abuja cityscape visible in background, corporate clean aesthetic, high-end commercial photography",
       "layout": "centered"
     },
     {
       "id": "about",
       "name": "About Us",
-      "copy": "Winning Woman Concepts is a leading manufacturing company based in Abuja, Nigeria. Strategically located at 13 Havilah Avenue off Airport Road in Abuja Municipal, we combine cutting-edge technology with skilled craftsmanship to deliver exceptional manufacturing solutions. Our commitment to quality, innovation, and timely delivery has positioned us as a trusted partner for businesses across various sectors. We understand the unique demands of the Nigerian market and provide tailored manufacturing services that meet international standards while remaining accessible to local enterprises.",
-      "imagePrompt": "Interior of a modern Nigerian manufacturing plant showing organized production floor with state-of-the-art machinery, diverse team of Nigerian professionals in safety equipment collaborating, bright natural lighting from large windows, clean and organized workspace, quality control station visible, professional industrial setting in Abuja, photorealistic",
+      "copy": "About Yeko Empire Petroleum Distribution Limited\n\nYeko Empire Downstream Logistics Co, operating as Yeko Empire Petroleum Distribution Limited, is a leading player in Nigeria's downstream oil and gas sector. Based in Abuja, we specialize in the safe and efficient distribution of petroleum products across the Federal Capital Territory and beyond.\n\nOur operations are guided by international best practices and a deep understanding of the Nigerian energy landscape. With expertise in energy trading and logistics management, we bridge the gap between refineries and end-users, ensuring that quality petroleum products reach their destinations on time, every time.\n\nWe pride ourselves on building lasting relationships with our clients through transparency, reliability, and unwavering commitment to safety standards. Our team of experienced professionals works round the clock to maintain the highest levels of operational excellence in every aspect of our business.",
+      "imagePrompt": "Professional business portrait of Nigerian oil and gas executives in formal attire standing confidently in front of modern office building in Abuja, petroleum tanker trucks visible in background, corporate headquarters setting, golden hour lighting, executive photography style",
       "layout": "split"
     },
     {
       "id": "services",
       "name": "Our Services",
-      "copy": "At Winning Woman Concepts, we offer comprehensive manufacturing solutions tailored to your business needs:\n\n• Custom Manufacturing: Bespoke production services designed to your exact specifications\n• Quality Assurance: Rigorous testing and quality control at every stage of production\n• Product Development: From concept to finished product, we bring your ideas to life\n• Supply Chain Management: Efficient logistics and inventory solutions\n• Consulting Services: Expert guidance on manufacturing processes and optimization\n\nOur facility is equipped with modern machinery and operated by skilled professionals committed to delivering excellence in every project.",
-      "imagePrompt": "Collage-style image showing various manufacturing processes in a Nigerian facility: precision machinery in operation, quality control inspection with checklist, product packaging area, inventory management system on tablets, consultation meeting room with blueprints, all featuring Nigerian professionals, bright industrial lighting, photorealistic, Abuja setting",
+      "copy": "Comprehensive Downstream Solutions\n\nPetroleum Product Distribution\nReliable supply and distribution of premium motor spirit (PMS), automotive gas oil (AGO), and dual-purpose kerosene (DPK) to retail outlets, industrial clients, and commercial users across Nigeria.\n\nEnergy Trading\nExpert energy trading services leveraging market intelligence and strategic partnerships to optimize supply chains and deliver competitive pricing for bulk petroleum purchases.\n\nLogistics Management\nEnd-to-end logistics solutions including transportation, storage, and delivery coordination, ensuring your petroleum products arrive safely and on schedule.\n\nBulk Supply Solutions\nCustomized bulk fuel supply arrangements for corporate clients, construction companies, manufacturing facilities, and government institutions with flexible payment terms.\n\nConsultancy Services\nStrategic advisory services on downstream operations, regulatory compliance, and supply chain optimization for businesses in the energy sector.",
+      "imagePrompt": "Fleet of modern petroleum tanker trucks branded with company colors parked at a clean, well-organized Nigerian distribution depot, workers in safety gear conducting inspections, clear blue sky, professional industrial photography showcasing operational excellence",
       "layout": "grid"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose Us",
+      "copy": "The Yeko Empire Advantage\n\nProven Track Record\nYears of successful operations in Nigeria's competitive downstream sector with a reputation for reliability and professionalism.\n\nStrategic Location\nHeadquartered in Abuja with access to major supply routes and distribution networks across the Federal Capital Territory and neighboring states.\n\nSafety First\nStrict adherence to safety protocols and environmental standards in all our operations, protecting our staff, clients, and communities.\n\nCompetitive Pricing\nLeveraging our energy trading expertise and supplier relationships to deliver the best value without compromising on quality.\n\n24/7 Support\nDedicated customer service team available round the clock to address your petroleum supply needs and resolve any concerns promptly.\n\nRegulatory Compliance\nFully licensed and compliant with all regulations of the Department of Petroleum Resources (DPR) and other relevant regulatory bodies.",
+      "imagePrompt": "Split-screen montage showing modern Nigerian petroleum infrastructure: safety-conscious workers in PPE, state-of-the-art fuel storage facility, digital monitoring systems, and satisfied business client shaking hands with company representative, professional corporate documentary style",
+      "layout": "cards"
     },
     {
       "id": "contact",
       "name": "Contact Us",
-      "copy": "Ready to discuss your manufacturing needs? Winning Woman Concepts is here to help transform your vision into reality.\n\nVisit our facility at 13 Havilah Avenue off Airport Road, Abuja Municipal, Nigeria, or reach out to us today for a consultation. We're committed to providing prompt responses and exceptional service to all inquiries.\n\nWhether you need a quote, technical consultation, or want to schedule a facility tour, our team is ready to assist you.",
-      "imagePrompt": "Professional Nigerian business reception area with modern furniture, warm lighting, potted plants, welcome desk with friendly receptionist, large windows showing Abuja cityscape, corporate branding visible, inviting atmosphere, photorealistic, high-end business environment",
+      "copy": "Get in Touch with Yeko Empire\n\nReady to discuss your petroleum distribution needs? Our team is available to provide customized solutions for your business.\n\nWhether you need regular fuel supply, bulk purchases, or logistics consultation, we're here to serve you with professionalism and efficiency.\n\nVisit our office in Abuja or reach out through any of our contact channels. We look forward to powering your operations.",
+      "imagePrompt": "Professional Nigerian office reception area with modern furniture, Yeko Empire branding on wall, clean corporate environment, natural lighting from large windows, welcoming atmosphere, architectural photography style with Abuja cityscape visible through windows",
       "layout": "centered"
     }
   ],
   "contact": {
     "phone": "+234 818 577 0141",
-    "email": "info@winningwomanconcepts.ng",
-    "address": "13 Havilah Avenue, Off Airport Road, Abuja Municipal, Abuja, Nigeria",
+    "email": "info@yekoempire.com",
+    "address": "13 Havilah Avenue, Off Airport Road, Abuja Municipal, FCT, Nigeria",
     "whatsapp": "https://wa.me/2348185770141"
   }
 }
